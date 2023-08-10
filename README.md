@@ -10,3 +10,10 @@
 * 아래 재생목록 링크를 가지고 계시면 계속 업로드되는 상황을 확인하실 수 있습니다.
 
 https://www.youtube.com/playlist?list=PL83j7f4UkozEkZt7DXePdYNkjx76TxBT0
+
+### 정오표 
+
+<img src="./img/image.png" width="600" height="400"></img>
+
+* 위 정오표는 독자이신 "박만규"님께서 메일로 알려주신 오류를 제시한 것입니다.
+* 독자 "박만규"님께 감사드리고, 또 이런 실수를 해서 여러 독자분들께 죄송합니다. 
