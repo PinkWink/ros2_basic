@@ -9,7 +9,7 @@
 * 영상 강의는 계속 업로드 중입니다.
 * 아래 재생목록 링크를 가지고 계시면 계속 업로드되는 상황을 확인하실 수 있습니다.
 
-https://www.youtube.com/playlist?list=PL83j7f4UkozEkZt7DXePdYNkjx76TxBT0
+https://www.youtube.com/playlist?list=PL0xYz_4oqpvhj4JaPSTeGI2k5GQEE36oi
 
 ### 정오표 
 
